@@ -5,7 +5,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4-F7931E?logo=scikit-learn&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+
 
 > **Strategic consulting engagement — Srugenie Technologies Pvt. Ltd.**  
 > Hypothesis-driven supply chain network gap analysis, transportation cost optimisation, and K-Means regional cohort segmentation — synthesised into a prioritised C-suite recommendations framework.
@@ -210,9 +210,8 @@ Features: avg_monthly_demand | demand_CV (σ/μ) | demand_growth_proxy
 
 ## Author
 
-**Ashmit Goel** — B.Tech ECE, Jaypee Institute of Information Technology  
-[LinkedIn](https://www.linkedin.com/in/ashmit-goel-8ab850299) · [Email](mailto:ashmitg.044@gmail.com)
-
+**Ashmit Goel**
+[LinkedIn](https://www.linkedin.com/in/ashmit-goel-8ab850299) 
 ---
 
 ## License
